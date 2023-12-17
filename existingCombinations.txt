@@ -1,0 +1,8 @@
+red + blue = purple
+red + yellow = orange
+red + white = pink
+blue + yellow = green
+blue + white = skyblue
+white + black = gray
+yellow + black = mustard
+red + purple = magenta
